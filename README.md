@@ -1,2 +1,2 @@
-# Aqua
-Aqua Engine
+# Aqua Engine
+Aqua Game Engine
